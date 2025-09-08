@@ -35,8 +35,8 @@ A Python program that simulates robot movements on the surface of Mars based on 
 
 ### Method 1: Direct Input
 python main.py
-# Then enter input manually
+Then enter input manually
 
 ### Method 2: Input via text file
 python main.py<input.txt
-# Enter input in a text file similar to input.txt file
+Enter input in a text file similar to input.txt file
